@@ -1,2 +1,1 @@
-# RPS
-Class Activity
+Rock Paper Scissors In-Class Activity
